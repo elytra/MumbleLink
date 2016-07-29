@@ -16,3 +16,8 @@ build
 *.iws
 *.iml
 /bin/
+
+## eclipse
+.project
+.classpath
+.settings
